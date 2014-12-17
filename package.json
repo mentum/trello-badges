@@ -1,0 +1,24 @@
+{
+  "name": "trello-badges",
+  "version": "0.0.0",
+  "description": "A markdown-friendly badges generator for Trello",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "extend": "^2.0.0",
+    "node-rest-client": "^1.4.3",
+    "q": "^1.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "npm install q --save"
+  },
+  "author": "",
+  "license": "ISC"
+}
