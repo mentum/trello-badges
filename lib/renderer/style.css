@@ -7,7 +7,7 @@ body{
 	display: inline-block;
 	vertical-align: top;
 	margin: 10px 5px;
-	background-color: whitesmoke;
+	background-color: #e2e4e6;
 	border-radius: 3px;
 	padding-left: 10px;
 	padding-bottom: 10px;
@@ -25,6 +25,7 @@ body{
 	color: #4d4d4d;
 	font-size: 12px;
 	padding: 5px;
-	width: calc(100% - 10px);
+	width: 90%;
 	margin-bottom: 5px;
+	border-radius: 3px;
 }
