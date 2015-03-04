@@ -1,0 +1,30 @@
+body{
+	background-color: rgb(14, 116, 175);
+}
+.list {
+	width: 200px;
+	padding: 0;
+	display: inline-block;
+	vertical-align: top;
+	margin: 10px 5px;
+	background-color: whitesmoke;
+	border-radius: 3px;
+	padding-left: 10px;
+	padding-bottom: 10px;
+}
+.list:first-child {
+	margin-left: 10px;
+}
+.list-header {
+	color: #4d4d4d;
+	font-weight: bolder;
+	font-size: 14px;
+}
+.card {
+	background-color: white;
+	color: #4d4d4d;
+	font-size: 12px;
+	padding: 5px;
+	width: calc(100% - 10px);
+	margin-bottom: 5px;
+}
