@@ -7,9 +7,10 @@
     "test": "test"
   },
   "dependencies": {
+    "aws-sdk": "^2.1.14",
     "extend": "^2.0.0",
     "node-rest-client": "^1.4.4",
-    "q": "^1.1.2"
+    "q": "^1.2.0"
   },
   "devDependencies": {},
   "scripts": {
